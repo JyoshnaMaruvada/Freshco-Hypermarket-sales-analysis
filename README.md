@@ -1,6 +1,6 @@
 
 
-# Supermarket Data Analysis Dashboard
+# Freshco HyperMarket Data Analysis Dashboard
 
 This repository contains an Excel-based dashboard that provides insights into supermarket operations and customer behavior. The analysis focuses on uncovering trends, optimizing processes, and offering actionable insights that support business decision-making. 
 
