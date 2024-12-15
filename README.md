@@ -1,6 +1,4 @@
-Got it! Here's an updated version of the README for an **Excel-based Supermarket Data Analysis Dashboard**:
 
----
 
 # Supermarket Data Analysis Dashboard
 
